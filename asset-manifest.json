@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/retro_chronometer/static/css/main.20327658.chunk.css",
+    "main.js": "/retro_chronometer/static/js/main.0da3f57a.chunk.js",
+    "main.js.map": "/retro_chronometer/static/js/main.0da3f57a.chunk.js.map",
+    "runtime-main.js": "/retro_chronometer/static/js/runtime-main.05039ee9.js",
+    "runtime-main.js.map": "/retro_chronometer/static/js/runtime-main.05039ee9.js.map",
+    "static/js/2.41c5270f.chunk.js": "/retro_chronometer/static/js/2.41c5270f.chunk.js",
+    "static/js/2.41c5270f.chunk.js.map": "/retro_chronometer/static/js/2.41c5270f.chunk.js.map",
+    "index.html": "/retro_chronometer/index.html",
+    "static/css/main.20327658.chunk.css.map": "/retro_chronometer/static/css/main.20327658.chunk.css.map",
+    "static/js/2.41c5270f.chunk.js.LICENSE.txt": "/retro_chronometer/static/js/2.41c5270f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05039ee9.js",
+    "static/js/2.41c5270f.chunk.js",
+    "static/css/main.20327658.chunk.css",
+    "static/js/main.0da3f57a.chunk.js"
+  ]
+}
